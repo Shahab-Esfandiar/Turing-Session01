@@ -63,6 +63,7 @@ A built-in **CSV Logger** allows users to "Flag" high-quality or problematic out
 4.  **Launch:**
     ```bash
     python main.py
+    Running on local URL:  http://127.0.0.1:7860
     ```
 
 ---
