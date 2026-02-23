@@ -1,6 +1,9 @@
 # 🚀 AI Text Engine Pro (v2)
 **An Advanced Modular Text Processing Suite utilizing Cloud & Local LLMs**
 
+<img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/85a213a2-1639-4ce6-b8df-95ba477d88d5" />
+
+
 This project is a sophisticated AI-powered application designed for high-performance text analysis. It bridges the gap between Cloud-based models (OpenAI) and Local-based models (Ollama), providing a seamless interface for academic and professional text tasks.
 
 ---
