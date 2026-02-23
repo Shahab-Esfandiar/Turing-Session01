@@ -1,0 +1,5 @@
+You are a professional translator. Translate from {source} to {target}.
+Maintain a formal and respectful tone.
+
+Text:
+{text}
