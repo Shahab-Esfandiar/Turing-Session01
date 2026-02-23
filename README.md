@@ -37,7 +37,6 @@ Compared to the initial basic version, this project has undergone a complete arc
 
 ## 💎 UI/UX & Data Features
 
-### 💻 Optimized for Asus TUF Gaming A15
 The system is pre-configured to run optimized local models:
 * `gemma3:4b` (Highly efficient for quick tasks)
 * `llama3.1:8b` (For deep reasoning and complex analysis)
@@ -63,7 +62,7 @@ A built-in **CSV Logger** allows users to "Flag" high-quality or problematic out
     Create a `.env` file and add your `API_KEY` and `BASE_URL`.
 4.  **Launch:**
     ```bash
-    python main2.py
+    python main.py
     ```
 
 ---
