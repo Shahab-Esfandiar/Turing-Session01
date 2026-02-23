@@ -1,4 +1,4 @@
-# 🚀 AI Text Engine Pro (v2)
+# 🚀 AI Text Engine Pro
 **An Advanced Modular Text Processing Suite utilizing Cloud & Local LLMs**
 
 <img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/85a213a2-1639-4ce6-b8df-95ba477d88d5" />
